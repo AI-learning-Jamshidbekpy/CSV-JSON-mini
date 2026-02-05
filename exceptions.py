@@ -7,8 +7,16 @@ class InvalidAgeError(Exception):
     def __str__(self):
         return f'ERROR: {self.message}'
     
+class ValueError(Exception):
+    def __init__(self, message="Emty name!"):
+        self.message = message
+        super().__init__(self.message)
 
-
+    def __str__(self):
+        return f'ERROR: {self.message}'
     
+
+
+
     
 

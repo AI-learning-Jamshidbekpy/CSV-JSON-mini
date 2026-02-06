@@ -81,6 +81,7 @@ Baholash nomlarga emas, ishlash prinsiplariga qarab qilindi. JSON format talabi 
 
 ## Yakuniy baho 
 **75/100**
+**Boshlangich middle lavel**
 
 ## Baholash manbai (AI)
 Ushbu baho sun'iy intellekt tomonidan Cursor muhitida, GPT oilasidagi model yordamida berildi.

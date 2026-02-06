@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Ali",
+        "age": "20",
+        "city": "Tashkent"
+    },
+    {
+        "id": "2",
+        "name": "Vali",
+        "age": "22",
+        "city": "Samarkand"
+    },
+    {
+        "id": "3",
+        "name": "",
+        "age": "19",
+        "city": "Tashkent"
+    },
+    {
+        "id": "4",
+        "name": "Sardor",
+        "age": "-1",
+        "city": "Bukhara"
+    }
+]
